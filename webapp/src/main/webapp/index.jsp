@@ -16,6 +16,9 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <h2> This is the time exactly </h2>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
@@ -31,7 +34,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning my friend TOTO</h1>
+   <h1> Thankyou, Happy Learning yeah</h1>
 
   
 </form>
