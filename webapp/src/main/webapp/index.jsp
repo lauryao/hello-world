@@ -16,8 +16,6 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <h2> This is the time exactly </h2>
-    <br>
     <h3> My new message BOW<h3>
     <br>
 
