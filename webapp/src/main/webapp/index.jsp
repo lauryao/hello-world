@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <h3> My new message BOW<h3>
+    <h3> This is the END folks<h3>
     <br>
 
     <label for="psw"><b>Password</b></label>
